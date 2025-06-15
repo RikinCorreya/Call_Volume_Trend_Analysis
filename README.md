@@ -1,1 +1,5 @@
 # Call_Volume_Trend_Analysis
+
+This project focuses on analyzing Customer Experience (CX) data from an inbound calling team. There is a 23-day dataset that includes details like agent names, queue times, call times, durations, and call statuses (e.g., abandoned, answered, or transferred).
+•In the given project we have to calculate the average call duration and total number of call per hour
+•We had to propose a manpower plan required during each time bucket and reduce the abandon rate to 10%
